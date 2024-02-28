@@ -1,4 +1,4 @@
-# Coffee House
+# Coffee Shop Website
 
 - Designed and developed an immersive Coffee House website, allowing users to browse and add products to the cart.
 - Implemented interactive features using HTML, CSS, and JavaScript for a seamless shopping experience.
